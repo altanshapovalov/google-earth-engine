@@ -1,5 +1,3 @@
-// THIS WORKS!!! // nov 17, 2022
-
 // 1) Site coords ======================================================================
 var siteCoords_features = [
 //ee.Feature(ee.Geometry.Point(-48.82830, 67.06650), {name: 'KAN M'})]; // weather station KANM
